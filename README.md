@@ -1,5 +1,7 @@
 # 🍕 Domino’s Data Dashboard: Power BI Analysis
 
+## Dashboard Link- <a herf "https://github.com/Balabhadra-nayak07/Domino-s-Data-Analysis/blob/main/Domino's.pbix"></a>
+
 ## 📌 Overview
 
 This project explores and analyzes Domino’s Pizza sales data using Power BI to gain actionable insights. By visualizing key trends such as order frequency, top-selling items, peak ordering times, and delivery efficiency, we aim to transform raw data into meaningful business intelligence.
