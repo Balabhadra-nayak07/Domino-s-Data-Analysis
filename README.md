@@ -1,6 +1,5 @@
 # 🍕 Domino’s Data Dashboard: Power BI Analysis
 
-## Dashboard Link - <a href= "https://github.com/Balabhadra-nayak07/Domino-s-Data-Analysis/blob/main/Domino's.pbix"> </a>
 
 ## 📌 Overview
 
