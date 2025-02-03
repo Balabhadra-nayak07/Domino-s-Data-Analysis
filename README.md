@@ -49,10 +49,10 @@ Whether you're a data analyst, a business owner, or simply curious about how dat
 
 ---
 
-##📌 Future Enhancements
+## 📌 Future Enhancements
 
 🔹 Predictive analytics using machine learning
 🔹 Integration with real-time data sources
 🔹 Advanced customer segmentation
 
-##💡 Let’s turn data into actionable insights—one pizza at a time! 🍕📊
+## 💡 Let’s turn data into actionable insights—one pizza at a time! 🍕📊
