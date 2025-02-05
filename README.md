@@ -22,38 +22,38 @@ Whether you're a data analyst, a business owner, or simply curious about how dat
 
 ## 🛠 Tech Stack
 
-🔹 Power BI – Interactive dashboards & visualizations
-🔹 DAX (Data Analysis Expressions) – Calculations & aggregations
-🔹 SQL (if applicable) – Data transformation & querying
-🔹 Excel/CSV – Source data processing
+🔹 Power BI – Interactive dashboards & visualizations<br/>
+🔹 DAX (Data Analysis Expressions) – Calculations & aggregations<br/>
+🔹 SQL (if applicable) – Data transformation & querying<br/>
+🔹 Excel/CSV – Source data processing<br/>
 
 
 ---
 
 ## 📊 Key Dashboards & Reports
 
-1️⃣ Sales Dashboard – Revenue, top items, and order trends
-2️⃣ Customer Insights – Behavior, demographics, and retention patterns
-3️⃣ Delivery Performance – Average delivery times and regional analysis
-4️⃣ Profit & Cost Analysis – Margins, expenses, and financial KPIs
+1️⃣ Sales Dashboard – Revenue, top items, and order trends<br/>
+2️⃣ Customer Insights – Behavior, demographics, and retention patterns<br/>
+3️⃣ Delivery Performance – Average delivery times and regional analysis<br/>
+4️⃣ Profit & Cost Analysis – Margins, expenses, and financial KPIs<br/>
 
 
 ---
 
 ## 🚀 How to Use
 
-1️⃣ Open the Power BI file (.pbix) in Power BI Desktop.
-2️⃣ Connect to the dataset (if needed).
-3️⃣ Explore the interactive dashboards and filters.
-4️⃣ Gain insights and take data-driven actions!
+1️⃣ Open the Power BI file (.pbix) in Power BI Desktop.<br/>
+2️⃣ Connect to the dataset (if needed).<br/>
+3️⃣ Explore the interactive dashboards and filters.<br/>
+4️⃣ Gain insights and take data-driven actions!<br/>
 
 
 ---
 
 ## 📌 Future Enhancements
 
-🔹 Predictive analytics using machine learning
-🔹 Integration with real-time data sources
-🔹 Advanced customer segmentation
+🔹 Predictive analytics using machine learning<br/>
+🔹 Integration with real-time data sources<br/>
+🔹 Advanced customer segmentation<br/>
 
 ## 💡 Let’s turn data into actionable insights—one pizza at a time! 🍕📊
