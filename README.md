@@ -12,10 +12,10 @@ Whether you're a data analyst, a business owner, or simply curious about how dat
 
 ## 🎯 Objectives
 
-✅ Sales Performance Analysis – Track revenue, top-selling items, and seasonal trends.
-✅ Customer Behavior Insights – Identify peak ordering times, repeat customers, and order preferences.
-✅ Delivery Performance – Assess average delivery time, efficiency, and regional variations.
-✅ Profitability & Cost Analysis – Understand revenue drivers and cost implications.
+✅ Sales Performance Analysis – Track revenue, top-selling items, and seasonal trends.<br/>
+✅ Customer Behavior Insights – Identify peak ordering times, repeat customers, and order preferences.<br/>
+✅ Delivery Performance – Assess average delivery time, efficiency, and regional variations.<br/>
+✅ Profitability & Cost Analysis – Understand revenue drivers and cost implications.<br/>
 
 
 ---
